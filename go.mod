@@ -1,3 +1,3 @@
-module github.com/webkrilya/anticapcha
+module github.com/webkrilya/acap
 
 go 1.15
