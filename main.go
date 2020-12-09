@@ -2,7 +2,7 @@ package anticapcha
 
 import "fmt"
 
-func test()  {
+func Test()  {
 
 	fmt.Println("Hello")
 
